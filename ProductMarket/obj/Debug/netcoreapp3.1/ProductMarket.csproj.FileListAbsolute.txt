@@ -1,0 +1,13 @@
+C:\Users\amora\source\repos\ProductMarket\ProductMarket\bin\Debug\netcoreapp3.1\ProductMarket.exe
+C:\Users\amora\source\repos\ProductMarket\ProductMarket\bin\Debug\netcoreapp3.1\ProductMarket.deps.json
+C:\Users\amora\source\repos\ProductMarket\ProductMarket\bin\Debug\netcoreapp3.1\ProductMarket.runtimeconfig.json
+C:\Users\amora\source\repos\ProductMarket\ProductMarket\bin\Debug\netcoreapp3.1\ProductMarket.runtimeconfig.dev.json
+C:\Users\amora\source\repos\ProductMarket\ProductMarket\bin\Debug\netcoreapp3.1\ProductMarket.dll
+C:\Users\amora\source\repos\ProductMarket\ProductMarket\bin\Debug\netcoreapp3.1\ProductMarket.pdb
+C:\Users\amora\source\repos\ProductMarket\ProductMarket\obj\Debug\netcoreapp3.1\ProductMarket.csprojAssemblyReference.cache
+C:\Users\amora\source\repos\ProductMarket\ProductMarket\obj\Debug\netcoreapp3.1\ProductMarket.AssemblyInfoInputs.cache
+C:\Users\amora\source\repos\ProductMarket\ProductMarket\obj\Debug\netcoreapp3.1\ProductMarket.AssemblyInfo.cs
+C:\Users\amora\source\repos\ProductMarket\ProductMarket\obj\Debug\netcoreapp3.1\ProductMarket.csproj.CoreCompileInputs.cache
+C:\Users\amora\source\repos\ProductMarket\ProductMarket\obj\Debug\netcoreapp3.1\ProductMarket.dll
+C:\Users\amora\source\repos\ProductMarket\ProductMarket\obj\Debug\netcoreapp3.1\ProductMarket.pdb
+C:\Users\amora\source\repos\ProductMarket\ProductMarket\obj\Debug\netcoreapp3.1\ProductMarket.genruntimeconfig.cache
